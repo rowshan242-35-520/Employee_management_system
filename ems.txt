@@ -1,0 +1,4 @@
+1|Rusafi Bin Rowshan|28|Male|SWE|20000.00|01767754538|rusafi12@gmail.com|12-01-2024|Mirpur,Dhaka-1216|O+|24756474534567|Full Time|Night|Mirpur|2050876564531002|14
+2|Jannatul Fardous|26|Female|Software Engineering|15000.00|01946096570|jannatuk789@gmail.com|12-01-2025|Uttara,Dhaka-1230|B+|2029182928222|Full Time|Morning|Uttara|2050986756477210|13617
+3|Prioty Hossain|27|Female|Software Developer|20000.00|01976534323|prioty33@gmail.com|21-09-2024|Gazipur,Dhaka|B+|282726128726222|Full time|Evening|Uttara|20502000219317|13617
+4|Afia Akter|29|Female|Junior Developer|10000.00|01967574534|afia67@gmail.com|23-08-2025|Dhanmondi,Dhaka|AB+|29282817833|Full time|Evening|Dhanmondi|2220291892874|13617

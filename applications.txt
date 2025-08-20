@@ -1,0 +1,5 @@
+1|1|Rusafi Bin Rowshan|leave|casual|Tis is a dummy application. can we take a leave?|approved
+2|1|Rusafi Bin Rowshan|general|-|this is a general application. should i remove prioty?|pending
+3|2|Jannatul Fardous|leave|casual|i need to buy something. can i go?|denied
+4|3|Prioty Hossain|leave|sick|I dont want to work. may i leave?|denied
+5|3|Prioty Hossain|leave|sick|PLEASE?????|denied
